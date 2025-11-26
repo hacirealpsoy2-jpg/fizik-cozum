@@ -1,0 +1,8 @@
+{
+  "name": "FizikÇözücü Pro",
+  "description": "TYT-AYT Fizik sorularını yapay zeka destekli görsel ve metin analizi ile çözen platform.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
